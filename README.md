@@ -22,3 +22,6 @@ It removes redundant information.
 
 # stats_her.pl
 It calculate different statistics from a numerical vector
+
+# get_sequence_from_ncbi_v2.sh
+It retrieve sequences in bulk from NCBI using a list of accession or gi numbers.
