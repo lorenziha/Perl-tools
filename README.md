@@ -30,7 +30,7 @@ It removes redundant lines from a file.
   nr.pl < redundant_file > non-redundant_file
 
 # stats_her.pl
-It calculate different statistics from a numerical vector that is entered from the STDIN
+It calculate several statistics (e.g. mean, median, SD, VAR, sum, max, min, counts) from a numerical vector that is entered from the STDIN
 
 # get_sequence_from_ncbi_v2.sh
 It retrieve sequences in bulk from NCBI using a list of accession or gi numbers.
