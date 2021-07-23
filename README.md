@@ -24,10 +24,13 @@ It identifies key values that are present or absent from a user-provided list of
   match_mismatch.pl -k <keys_file> [-ki <key file index [0]> ; -d <data_file> | STDIN ; -di <data index [0]> ;-m M|MM [match|mismatch [MM]] ; -h help]
 
 # nr.pl
-It removes redundant information.
+It removes redundant lines from a file.
+  
+  Usage:
+  nr.pl < redundant_file > non-redundant_file
 
 # stats_her.pl
-It calculate different statistics from a numerical vector
+It calculate different statistics from a numerical vector that is entered from the STDIN
 
 # get_sequence_from_ncbi_v2.sh
 It retrieve sequences in bulk from NCBI using a list of accession or gi numbers.
