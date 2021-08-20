@@ -1,6 +1,6 @@
-This folder contains scripts develop to support collaboration with Michael Grigg's Lab at NIAID.
+# This folder contains scripts develop to support collaboration with Michael Grigg's Lab at NIAID.
 
-get_allele_freq_from_allele.pl
+## get_allele_freq_from_allele.pl
 
 get_allele_freq_from_allele.pl -i <allele file>
  
