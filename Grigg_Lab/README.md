@@ -2,7 +2,7 @@
 
 ## get_allele_freq_from_allele.pl
 
-get_allele_freq_from_allele.pl -i <allele file>
+get_allele_freq_from_allele.pl -i < allele file >
  
 Optional parameters (defaults indicated within “[]”):
 -c <minimum read coverage of allele [2]
